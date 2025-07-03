@@ -1,7 +1,8 @@
+require("dotenv").config();
 const puppeteer = require("puppeteer");
 
-const EMAIL = 'pati.lima0122@gmail.com';
-const SENHA = 'pati123321';
+const EMAIL = process.env.EMAIL;
+const SENHA = process.env.SENHA;
 
 (async () => {
   const browser = await puppeteer.launch({
