@@ -1,0 +1,33 @@
+2025/07/09-17:02:09.566 7f78 Reusing MANIFEST C:\Users\patricia.lima\Desktop\Autocurtidaslinkedin\whats-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/09-17:02:09.576 7f78 Recovering log #144
+2025/07/09-17:02:09.747 7f78 Reusing old log C:\Users\patricia.lima\Desktop\Autocurtidaslinkedin\whats-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000144.log 
+2025/07/09-17:02:09.747 7f78 Delete type=2 #141
+2025/07/09-17:02:09.747 7f78 Delete type=2 #142
+2025/07/09-17:02:09.747 7f78 Delete type=2 #143
+2025/07/09-17:02:09.747 7f78 Delete type=2 #145
+2025/07/09-17:02:11.951 6444 Level-0 table #152: started
+2025/07/09-17:02:11.987 6444 Level-0 table #152: 467738 bytes OK
+2025/07/09-17:02:11.989 6444 Delete type=0 #144
+2025/07/09-17:02:11.991 6444 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/09-17:02:16.921 589c Compacting 1@1 + 4@2 files
+2025/07/09-17:02:17.470 589c Generated table #153@1: 47610 keys, 2204928 bytes
+2025/07/09-17:02:18.169 589c Generated table #154@1: 32238 keys, 2201953 bytes
+2025/07/09-17:02:18.771 589c Generated table #155@1: 35506 keys, 2199296 bytes
+2025/07/09-17:02:18.857 589c Generated table #156@1: 17520 keys, 407952 bytes
+2025/07/09-17:02:18.857 589c Compacted 1@1 + 4@2 files => 7014129 bytes
+2025/07/09-17:02:18.859 589c compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/07/09-17:02:43.299 6444 Level-0 table #158: started
+2025/07/09-17:02:43.379 6444 Level-0 table #158: 1106854 bytes OK
+2025/07/09-17:02:43.381 6444 Delete type=2 #146
+2025/07/09-17:02:43.381 6444 Delete type=2 #147
+2025/07/09-17:02:43.381 6444 Delete type=2 #148
+2025/07/09-17:02:43.381 6444 Delete type=2 #149
+2025/07/09-17:02:43.381 6444 Delete type=0 #151
+2025/07/09-17:02:43.381 6444 Delete type=2 #152
+2025/07/09-17:02:43.649 7d24 Compacting 1@1 + 4@2 files
+2025/07/09-17:02:44.054 7d24 Generated table #159@1: 49202 keys, 2202589 bytes
+2025/07/09-17:02:44.285 7d24 Generated table #160@1: 34336 keys, 2205540 bytes
+2025/07/09-17:02:44.529 7d24 Generated table #161@1: 29479 keys, 2192842 bytes
+2025/07/09-17:02:44.637 7d24 Generated table #162@1: 24446 keys, 567131 bytes
+2025/07/09-17:02:44.637 7d24 Compacted 1@1 + 4@2 files => 7168102 bytes
+2025/07/09-17:02:44.640 7d24 compacted to: files[ 0 0 4 0 0 0 0 ]
